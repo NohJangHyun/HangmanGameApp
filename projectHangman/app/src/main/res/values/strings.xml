@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">projectHangman</string>
+    <string name="topic">Hangman</string>
+    <string name="id_name">60181631 노장현</string>
+    <string name="start">Start Game</string>
+    <string name="Restart">Restart</string>
+    <string name="add">Add Word</string>
+    <string name="ranking">Ranking</string>
+</resources>
